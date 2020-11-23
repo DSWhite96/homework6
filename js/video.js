@@ -69,5 +69,5 @@ document.querySelector("#old").addEventListener("click", function() {
 });
 
 document.querySelector("#original").addEventListener("click", function() {
-	document.getElementById("myVideo").className = null;
+	document.getElementById("myVideo").className = "original";
 });
